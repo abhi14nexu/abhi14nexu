@@ -44,7 +44,7 @@
 <br />
 
 
-  <summary>:zap: GitHub Stats</summary>
+  ### GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=abhi14nexu&show_icons=true&hide_border=false&theme=tokyonight" />
 
