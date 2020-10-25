@@ -43,7 +43,7 @@
 <br />
 
 ### 📫 How to reach me
-- Drop me a mail at abhishek.yadav14112000@gmail.com !
+- Drop me a mail at abhishekyadavofficial@outlook.com !
 
 
  ### GitHub Stats
