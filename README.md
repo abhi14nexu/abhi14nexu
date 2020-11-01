@@ -9,9 +9,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and do some good projects
 - ⚡ Fun fact: I love Playing Basketball,Making music beats and watching fantasy series
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31t6qpbbg3rktpkyomponftn74h4)
 
 ### Connect with me:
 
