@@ -43,11 +43,6 @@
 - Drop me a mail at abhishekyadavofficial@outlook.com !
 
 
- ### GitHub Stats
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=abhi14nexu&show_icons=true&hide_border=false&theme=tokyonight" />
-
- 
 
 [website]: https://abhi14nexu.github.io/portfolio/
 [instagram]: https://www.instagram.com/ab_his_he_kk/
