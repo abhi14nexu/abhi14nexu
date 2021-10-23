@@ -1,6 +1,5 @@
 ### Hey,This is Abhishek <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"> 
 
-[![Website](https://img.shields.io/website?label=My_Portfolio&style=for-the-badge&url=https://abhi14nexu.github.io/portfolio/)](https://abhi14nexu.github.io/portfolio/)
 
 ## I'm a Curious Human who likes to explore and learn stuff!!
 
