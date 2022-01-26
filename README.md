@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Azure and a bit of machine learning
 - 👯 I would love to collab ,hit me up if you have any projects for me
-- 🥅 2020 Goals: Contribute more to Open Source projects and do some good projects
+
 - ⚡ Fun fact: I love Playing Basketball,Making music beats and watching fantasy series
 
 
@@ -13,8 +13,7 @@
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 
 
 
@@ -43,10 +42,9 @@
 
 
 
-[website]: https://abhi14nexu.github.io/portfolio/
-[instagram]: https://www.instagram.com/ab_his_he_kk/
-[linkedin]: https://www.linkedin.com/in/abhishek-yadav-9b3915194/
-[medium]:https://medium.com/@abhishek.yadav14112000 
+[website]: http://abhicodes.vercel.app/
+[linkedin]: https://www.linkedin.com/in/abhishekcodes
+
 
  
 
