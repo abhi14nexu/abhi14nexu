@@ -1,41 +1,31 @@
-### Hey,This is Abhishek <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"> 
+### Hi There  <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"> ,I'm Abhishek Yadav
 
 
-## I'm a Curious Human who likes to explore and learn stuff!!
+I'm currently working on front-end development, but I'm always open to learn things that catch my eye 👀.
 
-- 🌱 I’m currently learning Azure and a bit of machine learning
-- 👯 I would love to collab ,hit me up if you have any projects for me
+```ts
+const abhi: Developer = {
+  workingOn: ['React ⚛️', 'Vue.js 📗', 'CSS 🎨', 'Docker 🐋', 'NextJS ⏭️', 'TypeScript🦖'],
+  alsoKnow: ['Django 👓', 'PostgreSQL🔰', 'C++ ©️', 'Java ☕'],
+  learning: ['Tailwind CSS 🖌️', 'Kubernetes ⏹️'],
+  interests: ['Chess ♟️', 'Startups 💻', 'PC Gaming 🎮'],
+  languages: ['English', 'Hindi','German'],
+}
+```
 
-- ⚡ Fun fact: I love Playing Basketball,Making music beats and watching fantasy series
 
 
-### Connect with me:
-
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### ➡️Find me here:
 
 
+[<img align="left" alt=" LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Portfolio"  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 
 <br />
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Vue Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-
-<br />
 
 ### 📫 How to reach me
 - Drop me a mail at abhishekyadavofficial@outlook.com !
@@ -44,6 +34,7 @@
 
 [website]: http://abhicodes.vercel.app/
 [linkedin]: https://www.linkedin.com/in/abhishekcodes
+[twitter]: https://twitter.com/abhishek_codes
 
 
  
