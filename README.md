@@ -1,4 +1,4 @@
-### Hi There  <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px"> ,I'm Abhishek Yadav
+### Hi There 👋 ,I'm Abhishek Yadav
 
 
 I'm currently working on front-end development, but I'm always open to learn things that catch my eye 👀.
